@@ -1,5 +1,5 @@
 import { AxiosRequestConfig } from '../types'
-import { isObject, deepMerge } from 'util'
+import { isObject, deepMerge } from '../helpers/utils'
 
 const strats = Object.create(null)
 
