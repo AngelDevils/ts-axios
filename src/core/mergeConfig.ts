@@ -24,7 +24,6 @@ function deepMergeStrat(val1: any, val2: any): any {
     return val1
   }
 }
-
 const srtatKeysFromVal2 = ['url', 'params', 'data']
 
 srtatKeysFromVal2.forEach(key => {
