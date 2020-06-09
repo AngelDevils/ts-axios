@@ -1,9 +1,9 @@
 import axios, { AxiosError } from '../../src/index'
 import qs from 'qs'
 
-import 'nprogress/nprogress.css'
+// import 'nprogress/nprogress.css'
 
-import NProgress from 'nprogress'
+// import NProgress from 'nprogress'
 
 document.cookie = 'a=b'
 
